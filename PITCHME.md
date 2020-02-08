@@ -1,22 +1,31 @@
-### こんにちは！
+### 今日学んだこと
 
-
-これはサンプルのスライド資料です。
-
-
----
-
-
-### 2枚目のスライド
+- Nuxt.js
+- GitPitch
 
 
 ---
 
 
-### 3枚目のスライド
+### Nuxt.jsの学習内容
+
+
+- 学習ソース
+  - Udemy(https://www.udemy.com/course/nuxtjs-the-complete-guide/learn/lecture/15060662#questions)
+- 学習内容
+  - Nuxtの初歩の初歩まで
+  - Nuxtプロジェクトのファイル構成やルーティング、レイアウトなど
 
 
 ---
 
 
-### おわり
+### GitPitch
+
+
+GitPitch簡単でいい！
+
+
+---
+
+
