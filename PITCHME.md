@@ -11,10 +11,10 @@
 
 
 - 学習ソース
-  - Udemy(https://www.udemy.com/course/nuxtjs-the-complete-guide/learn/lecture/15060662#questions)
+  - [Udemyの講座](https://www.udemy.com/course/nuxtjs-the-complete-guide/learn/lecture/15060662)
 - 学習内容
-  - Nuxtの初歩の初歩まで
-  - Nuxtプロジェクトのファイル構成やルーティング、レイアウトなど
+  - Nuxtの初歩の初歩
+  - プロジェクトのファイル構成やルーティング、ページのレイアウトなど
 
 
 ---
@@ -23,7 +23,8 @@
 ### GitPitch
 
 
-GitPitch簡単でいい！
+- GitPitch簡単でいい！
+- と思ったけど、よく落ちてる？
 
 
 ---
